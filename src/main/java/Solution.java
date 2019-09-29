@@ -1,5 +1,12 @@
 import java.util.Arrays;
 
+/**
+ * Class Solution. Has one static method - superDigit(long n).
+ * Use this method for super digit calculations
+ *
+ * @author artjoms.skripko
+ * @since 1.0
+ */
 public class Solution {
 
     static long superDigit(long n){

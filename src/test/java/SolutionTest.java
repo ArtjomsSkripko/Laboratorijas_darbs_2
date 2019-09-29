@@ -2,6 +2,12 @@ import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.*;
 
+/**
+ * Test class SolutionTest.
+ *
+ * @author artjoms.skripko
+ * @since 1.0
+ */
 public class SolutionTest {
 
     @Test
